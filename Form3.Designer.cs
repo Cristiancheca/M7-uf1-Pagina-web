@@ -68,7 +68,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(577, 42);
+            this.pictureBox2.Location = new System.Drawing.Point(636, 37);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(21, 21);
             this.pictureBox2.TabIndex = 1;
@@ -76,7 +76,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(326, 214);
+            this.pictureBox3.Location = new System.Drawing.Point(326, 289);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(21, 21);
             this.pictureBox3.TabIndex = 2;
@@ -84,7 +84,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Location = new System.Drawing.Point(577, 214);
+            this.pictureBox4.Location = new System.Drawing.Point(636, 290);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(21, 21);
             this.pictureBox4.TabIndex = 3;
@@ -93,9 +93,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(368, 48);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(56, 15);
+            this.label1.Size = new System.Drawing.Size(69, 20);
             this.label1.TabIndex = 4;
             this.label1.Text = "Pericristo";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -103,9 +104,10 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(368, 220);
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label3.Location = new System.Drawing.Point(368, 291);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(87, 15);
+            this.label3.Size = new System.Drawing.Size(110, 20);
             this.label3.TabIndex = 6;
             this.label3.Text = "Pepitogamer63";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -113,36 +115,39 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(614, 220);
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label4.Location = new System.Drawing.Point(673, 290);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(73, 15);
+            this.label4.Size = new System.Drawing.Size(93, 20);
             this.label4.TabIndex = 7;
             this.label4.Text = "Hater_rule34";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(614, 48);
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.Location = new System.Drawing.Point(673, 43);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(101, 15);
+            this.label2.Size = new System.Drawing.Size(127, 20);
             this.label2.TabIndex = 8;
             this.label2.Text = "Persona enfadada";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(84, 48);
+            this.button1.Location = new System.Drawing.Point(84, 74);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(128, 41);
+            this.button1.Size = new System.Drawing.Size(145, 63);
             this.button1.TabIndex = 9;
             this.button1.Text = "Buscar";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(84, 172);
+            this.button2.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(84, 248);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(128, 41);
+            this.button2.Size = new System.Drawing.Size(145, 63);
             this.button2.TabIndex = 10;
             this.button2.Text = "Ingresar a la  teva compta";
             this.button2.UseVisualStyleBackColor = true;
@@ -150,9 +155,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(84, 290);
+            this.button3.Location = new System.Drawing.Point(84, 415);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(128, 41);
+            this.button3.Size = new System.Drawing.Size(145, 63);
             this.button3.TabIndex = 11;
             this.button3.Text = "Populars";
             this.button3.UseVisualStyleBackColor = true;
@@ -160,27 +165,30 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(287, 74);
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label5.Location = new System.Drawing.Point(255, 74);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(250, 15);
+            this.label5.Size = new System.Drawing.Size(316, 20);
             this.label5.TabIndex = 12;
             this.label5.Text = "Como que la salchipapa tiene salchicha i papa";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(577, 74);
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label6.Location = new System.Drawing.Point(614, 74);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(176, 15);
+            this.label6.Size = new System.Drawing.Size(231, 20);
             this.label6.TabIndex = 13;
-            this.label6.Text = "Esque no puede acer tanto calor";
+            this.label6.Text = "Esque no puede hacer tanto calor";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(287, 248);
+            this.label7.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label7.Location = new System.Drawing.Point(287, 318);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(194, 15);
+            this.label7.Size = new System.Drawing.Size(245, 20);
             this.label7.TabIndex = 12;
             this.label7.Text = "he perdido una partida en mincraft ";
             this.label7.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -189,9 +197,10 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(577, 248);
+            this.label8.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label8.Location = new System.Drawing.Point(597, 318);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(207, 15);
+            this.label8.Size = new System.Drawing.Size(263, 20);
             this.label8.TabIndex = 15;
             this.label8.Text = "Esta gente no deberia tenener internet";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -199,44 +208,45 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(326, 290);
+            this.pictureBox5.Location = new System.Drawing.Point(287, 348);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(174, 75);
+            this.pictureBox5.Size = new System.Drawing.Size(284, 181);
             this.pictureBox5.TabIndex = 16;
             this.pictureBox5.TabStop = false;
             // 
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(326, 102);
+            this.pictureBox6.Location = new System.Drawing.Point(287, 106);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(174, 75);
+            this.pictureBox6.Size = new System.Drawing.Size(284, 181);
             this.pictureBox6.TabIndex = 17;
             this.pictureBox6.TabStop = false;
             // 
             // pictureBox7
             // 
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
-            this.pictureBox7.Location = new System.Drawing.Point(594, 102);
+            this.pictureBox7.Location = new System.Drawing.Point(588, 106);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(174, 75);
+            this.pictureBox7.Size = new System.Drawing.Size(284, 181);
             this.pictureBox7.TabIndex = 18;
             this.pictureBox7.TabStop = false;
             // 
             // pictureBox8
             // 
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
-            this.pictureBox8.Location = new System.Drawing.Point(594, 290);
+            this.pictureBox8.Location = new System.Drawing.Point(597, 348);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(174, 75);
+            this.pictureBox8.Size = new System.Drawing.Size(284, 181);
             this.pictureBox8.TabIndex = 19;
             this.pictureBox8.TabStop = false;
+            this.pictureBox8.Click += new System.EventHandler(this.pictureBox8_Click);
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(914, 600);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox6);
